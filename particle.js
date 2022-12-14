@@ -966,7 +966,7 @@ var pJS = function(tag_id, params){
   
           }
   
-          // default
+          
           if(d <= repulseRadius){
             process();
           }
