@@ -766,7 +766,7 @@ var pJS = function(tag_id, params){
   
     pJS.fn.modes.bubbleParticle = function(p){
   
-      /* on hover event */
+      
       if(pJS.interactivity.events.onhover.enable && isInArray('bubble', pJS.interactivity.events.onhover.mode)){
   
         var dx_mouse = p.x - pJS.interactivity.mouse.pos_x,
