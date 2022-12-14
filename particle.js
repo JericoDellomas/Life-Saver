@@ -645,7 +645,7 @@ var pJS = function(tag_id, params){
       pJS.fn.particlesEmpty();
       pJS.fn.canvasClear();
       
-      /* restart */
+     
       pJS.fn.vendors.start();
   
     };
