@@ -659,7 +659,7 @@ var pJS = function(tag_id, params){
           dy = p1.y - p2.y,
           dist = Math.sqrt(dx*dx + dy*dy);
   
-      /* draw a line between p1 and p2 if the distance between them is under the config distance */
+      
       if(dist <= pJS.particles.line_linked.distance){
   
         var opacity_line = pJS.particles.line_linked.opacity - (dist / (1/pJS.particles.line_linked.opacity)) / pJS.particles.line_linked.distance;
