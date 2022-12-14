@@ -20,7 +20,7 @@ $(function() {
       $this.parent().toggleClass('open');
       
       if(!e.data.multiple) {
-        //show only one menu at the same time
+        
         $el.find('.submenuItems').not($next).slideUp().parent().removeClass('open');
       }
     }
