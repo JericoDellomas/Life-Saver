@@ -973,7 +973,7 @@ var pJS = function(tag_id, params){
   
           
           
-          //   if(d <= repulseRadius){
+          
           //     process();
           //   }
           // }else{
