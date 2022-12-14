@@ -972,7 +972,7 @@ var pJS = function(tag_id, params){
           }
   
           
-          // if(!pJS.tmp.repulse_finish){
+          
           //   if(d <= repulseRadius){
           //     process();
           //   }
