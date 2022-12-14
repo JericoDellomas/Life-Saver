@@ -619,7 +619,7 @@ var pJS = function(tag_id, params){
       
       pJS.canvas.ctx.clearRect(0, 0, pJS.canvas.w, pJS.canvas.h);
   
-      /* update each particles param */
+      
       pJS.fn.particlesUpdate();
   
       /* draw each particle */
