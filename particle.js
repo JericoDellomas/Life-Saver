@@ -1039,7 +1039,7 @@ var pJS = function(tag_id, params){
   
       if(pJS.interactivity.events.onhover.enable || pJS.interactivity.events.onclick.enable){
   
-        /* el on mousemove */
+       
         pJS.interactivity.el.addEventListener('mousemove', function(e){
   
           if(pJS.interactivity.el == window){
