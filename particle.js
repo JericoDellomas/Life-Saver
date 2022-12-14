@@ -636,7 +636,7 @@ var pJS = function(tag_id, params){
   
     pJS.fn.particlesRefresh = function(){
   
-      /* init all */
+     
       cancelRequestAnimFrame(pJS.fn.checkAnimFrame);
       cancelRequestAnimFrame(pJS.fn.drawAnimFrame);
       pJS.tmp.source_svg = undefined;
