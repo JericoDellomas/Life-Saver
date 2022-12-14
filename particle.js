@@ -1009,7 +1009,7 @@ var pJS = function(tag_id, params){
             pJS.canvas.ctx.lineWidth = pJS.particles.line_linked.width;
             
             
-            /* path */
+            
             pJS.canvas.ctx.beginPath();
             pJS.canvas.ctx.moveTo(p.x, p.y);
             pJS.canvas.ctx.lineTo(pJS.interactivity.mouse.pos_x, pJS.interactivity.mouse.pos_y);
