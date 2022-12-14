@@ -498,7 +498,7 @@ var pJS = function(tag_id, params){
         
         var p = pJS.particles.array[i];
   
-        // var d = ( dx = pJS.interactivity.mouse.click_pos_x - p.x ) * dx + ( dy = pJS.interactivity.mouse.click_pos_y - p.y ) * dy;
+        
         // var f = -BANG_SIZE / d;
         // if ( d < BANG_SIZE ) {
         //     var t = Math.atan2( dy, dx );
