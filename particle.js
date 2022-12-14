@@ -651,7 +651,7 @@ var pJS = function(tag_id, params){
     };
   
   
-    /* ---------- pJS functions - particles interaction ------------ */
+    
   
     pJS.fn.interact.linkParticles = function(p1, p2){
   
