@@ -1037,8 +1037,6 @@ var pJS = function(tag_id, params){
         pJS.interactivity.el = pJS.canvas.el;
       }
   
-  
-      /* detect mouse pos - on hover / click event */
       if(pJS.interactivity.events.onhover.enable || pJS.interactivity.events.onclick.enable){
   
         /* el on mousemove */
