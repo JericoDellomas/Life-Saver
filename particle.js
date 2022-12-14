@@ -1063,7 +1063,7 @@ var pJS = function(tag_id, params){
   
         });
   
-        /* el on onmouseleave */
+        
         pJS.interactivity.el.addEventListener('mouseleave', function(e){
   
           pJS.interactivity.mouse.pos_x = null;
