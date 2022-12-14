@@ -1141,7 +1141,7 @@ var pJS = function(tag_id, params){
         
         var nb_particles = area * pJS.particles.number.value / pJS.particles.number.density.value_area;
   
-        /* add or remove X particles */
+       
         var missing_particles = pJS.particles.array.length - nb_particles;
         if(missing_particles < 0) pJS.fn.modes.pushParticles(Math.abs(missing_particles));
         else pJS.fn.modes.removeParticles(missing_particles);
