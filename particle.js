@@ -784,7 +784,7 @@ var pJS = function(tag_id, params){
   
           if(ratio >= 0 && pJS.interactivity.status == 'mousemove'){
             
-            /* size */
+            
             if(pJS.interactivity.modes.bubble.size != pJS.particles.size.value){
   
               if(pJS.interactivity.modes.bubble.size > pJS.particles.size.value){
