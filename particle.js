@@ -1026,7 +1026,7 @@ var pJS = function(tag_id, params){
   
   
   
-    /* ---------- pJS functions - vendors ------------ */
+    
   
     pJS.fn.vendors.eventsListeners = function(){
   
