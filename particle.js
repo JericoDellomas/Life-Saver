@@ -804,7 +804,7 @@ var pJS = function(tag_id, params){
   
             }
   
-            /* opacity */
+            
             if(pJS.interactivity.modes.bubble.opacity != pJS.particles.opacity.value){
   
               if(pJS.interactivity.modes.bubble.opacity > pJS.particles.opacity.value){
