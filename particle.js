@@ -226,8 +226,6 @@ var pJS = function(tag_id, params){
     };
   
   
-    /* --------- pJS functions - particles ----------- */
-  
     pJS.fn.particle = function(color, opacity, position){
   
       /* size */
