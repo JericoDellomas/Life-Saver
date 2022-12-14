@@ -1030,7 +1030,7 @@ var pJS = function(tag_id, params){
   
     pJS.fn.vendors.eventsListeners = function(){
   
-      /* events target element */
+      
       if(pJS.interactivity.detect_on == 'window'){
         pJS.interactivity.el = window;
       }else{
