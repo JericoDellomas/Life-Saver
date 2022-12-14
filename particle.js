@@ -1074,7 +1074,7 @@ var pJS = function(tag_id, params){
   
       }
   
-      /* on click event */
+     
       if(pJS.interactivity.events.onclick.enable){
   
         pJS.interactivity.el.addEventListener('click', function(){
