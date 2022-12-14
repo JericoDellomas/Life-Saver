@@ -495,7 +495,7 @@ var pJS = function(tag_id, params){
   
       for(var i = 0; i < pJS.particles.array.length; i++){
   
-        /* the particle */
+        
         var p = pJS.particles.array[i];
   
         // var d = ( dx = pJS.interactivity.mouse.click_pos_x - p.x ) * dx + ( dy = pJS.interactivity.mouse.click_pos_y - p.y ) * dy;
