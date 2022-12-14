@@ -890,7 +890,7 @@ var pJS = function(tag_id, params){
         if(pJS.tmp.bubble_clicking){
           
           process(pJS.interactivity.modes.bubble.size, pJS.particles.size.value, p.radius_bubble, p.radius, 'size');
-          /* opacity */
+          
           process(pJS.interactivity.modes.bubble.opacity, pJS.particles.opacity.value, p.opacity_bubble, p.opacity, 'opacity');
         }
   
