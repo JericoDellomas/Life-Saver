@@ -1138,7 +1138,7 @@ var pJS = function(tag_id, params){
           area = area/(pJS.canvas.pxratio*2);
         }
   
-        /* calc number of particles based on density area */
+        
         var nb_particles = area * pJS.particles.number.value / pJS.particles.number.density.value_area;
   
         /* add or remove X particles */
