@@ -666,7 +666,7 @@ var pJS = function(tag_id, params){
   
         if(opacity_line > 0){        
           
-          /* style */
+         
           var color_line = pJS.particles.line_linked.color_rgb_line;
           pJS.canvas.ctx.strokeStyle = 'rgba('+color_line.r+','+color_line.g+','+color_line.b+','+opacity_line+')';
           pJS.canvas.ctx.lineWidth = pJS.particles.line_linked.width;
