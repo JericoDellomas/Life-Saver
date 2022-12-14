@@ -828,7 +828,7 @@ var pJS = function(tag_id, params){
         }
   
   
-        /* mouseleave */
+        
         if(pJS.interactivity.status == 'mouseleave'){
           init();
         }
