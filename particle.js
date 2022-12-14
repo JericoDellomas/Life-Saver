@@ -835,7 +835,7 @@ var pJS = function(tag_id, params){
       
       }
   
-      /* on click event */
+     
       else if(pJS.interactivity.events.onclick.enable && isInArray('bubble', pJS.interactivity.events.onclick.mode)){
   
   
