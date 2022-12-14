@@ -779,7 +779,7 @@ var pJS = function(tag_id, params){
           p.radius_bubble = p.radius;
         }
   
-        /* mousemove - check ratio */
+       
         if(dist_mouse <= pJS.interactivity.modes.bubble.distance){
   
           if(ratio >= 0 && pJS.interactivity.status == 'mousemove'){
