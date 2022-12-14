@@ -344,7 +344,7 @@ var pJS = function(tag_id, params){
         this.vy = velbase.y + Math.random()-0.5;
       }
   
-      // var theta = 2.0 * Math.PI * Math.random();
+      
       // this.vx = Math.cos(theta);
       // this.vy = Math.sin(theta);
   
