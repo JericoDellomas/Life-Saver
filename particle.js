@@ -502,7 +502,7 @@ var pJS = function(tag_id, params){
         
         
        
-        //     p.vx = f * Math.cos(t);
+        
         //     p.vy = f * Math.sin(t);
         // }
   
