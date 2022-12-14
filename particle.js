@@ -499,7 +499,7 @@ var pJS = function(tag_id, params){
         var p = pJS.particles.array[i];
   
         
-        // var f = -BANG_SIZE / d;
+        
         // if ( d < BANG_SIZE ) {
         //     var t = Math.atan2( dy, dx );
         //     p.vx = f * Math.cos(t);
