@@ -503,7 +503,7 @@ var pJS = function(tag_id, params){
         
        
         
-        //     p.vy = f * Math.sin(t);
+        
         // }
   
         /* move the particle */
