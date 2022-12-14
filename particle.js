@@ -500,7 +500,7 @@ var pJS = function(tag_id, params){
   
         
         
-        // if ( d < BANG_SIZE ) {
+        
         //     var t = Math.atan2( dy, dx );
         //     p.vx = f * Math.cos(t);
         //     p.vy = f * Math.sin(t);
