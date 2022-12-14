@@ -346,7 +346,7 @@ var pJS = function(tag_id, params){
   
       
       
-      // this.vy = Math.sin(theta);
+      
   
       this.vx_i = this.vx;
       this.vy_i = this.vy;
