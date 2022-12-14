@@ -671,8 +671,6 @@ var pJS = function(tag_id, params){
           pJS.canvas.ctx.strokeStyle = 'rgba('+color_line.r+','+color_line.g+','+color_line.b+','+opacity_line+')';
           pJS.canvas.ctx.lineWidth = pJS.particles.line_linked.width;
           
-          
-          /* path */
           pJS.canvas.ctx.beginPath();
           pJS.canvas.ctx.moveTo(p1.x, p1.y);
           pJS.canvas.ctx.lineTo(p2.x, p2.y);
